@@ -8,7 +8,6 @@ import {Input} from "@/components/ui/input";
 import LinkCard from "@/components/link-card";
 import Error from "@/components/error";
 import useFetch from "@/hooks/use-fetch";
-
 import {getUrls} from "@/db/apiUrls";
 import {getClicksForUrls} from "@/db/apiClicks";
 import {UrlState} from "@/context";
