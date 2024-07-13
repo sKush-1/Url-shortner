@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 import {useNavigate} from "react-router-dom";
 import {useEffect} from "react";
 import {UrlState} from "@/context";
