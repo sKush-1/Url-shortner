@@ -97,7 +97,7 @@ const LinkPage = () => {
             <Button
               variant="ghost"
               onClick={() =>
-                navigator.clipboard.writeText(`https://url-shortner-alpha-snowy.vercel.app/.in/${link}`)
+                navigator.clipboard.writeText(`https://url-shortner-alpha-snowy.vercel.app/${link}`)
               }
             >
               <Copy />
